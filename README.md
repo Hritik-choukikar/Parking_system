@@ -44,12 +44,7 @@ To run locally:
 python main.py
 ```
 
-To deploy as an API (Flask/FastAPI wrapper coming soon):
-
-```bash
-uvicorn app:app --reload
-```
-
+ 
 ---
 
  
